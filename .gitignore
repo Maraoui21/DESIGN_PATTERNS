@@ -1,2 +1,2 @@
 *.jpeg
-*./out
+out/
