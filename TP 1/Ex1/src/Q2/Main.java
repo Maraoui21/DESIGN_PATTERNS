@@ -2,9 +2,12 @@ package Q2;
 
 import Q2.implementation.Impl1;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
-        Impl1 pl = new Impl1();
-        pl.execute();
+        List l = new ArrayList<>();
+
     }
 }
